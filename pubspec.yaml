@@ -1,0 +1,71 @@
+name: flutter_application_1
+description: "Serene - Mental Health App"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.3
+  audioplayers: ^6.5.1
+  google_generative_ai: ^0.4.0
+  provider: ^6.1.2
+  uuid: ^4.5.2
+  intl: ^0.19.0
+  http: ^1.2.2
+  flutter_markdown: ^0.6.18
+  share_plus: ^7.2.1
+  flutter_tts: ^3.8.3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Perbaikan ada di sini.
+  # Blok 'assets' sekarang berada di DALAM 'flutter'
+  # dan kita hanya mendaftarkan foldernya.
+  assets:
+    - assets/audio/sunday_driver_loop_401994.mp3
+    - assets/audio/meditation-background-music-383120.mp3
+    - assets/audio/meditation-music-338902.mp3
+    - assets/audio/meditation-music-427644.mp3
+    - assets/audio/meditation-yoga-relaxing-music-380330.mp3
+    - assets/audio/sleep-music-vol16-195422.mp3
+
+    - assets/images/meditasi_stress_tempat_kerja.jpg
+    - assets/images/Hubungan_Sehat.jpg
+    - assets/images/Kecemasan_Sosial.jpg
+    - assets/images/Mengenal_Mindfulness.jpg
+    - assets/images/Menulis_Jurnal.jpg
+    - assets/images/Tidur_Berkualitas.webp
+
+    - assets/images/Pagi_Hari.jpg
+    - assets/images/Tidur_Lelap.webp
+    - assets/images/Fokus_Sepenuhnya.jpg
+    - assets/images/Meditasi_Pemula.jpg
+    - assets/images/Mengatasi_Kecemasan.jpg
+    - assets/images/Meditasi_Pernapasan.webp
+    - assets/images/Energi_Pagi.jpg
+    - assets/images/Tidur_Cepat.webp
+    - assets/images/Meditasi_Gratitude.jpg
+    - assets/images/Konsentrasi_Belajar.jpg
+    - assets/images/Relaksasi_Mendalam.jpg
+    - assets/images/Tidur_Restoratif.jpg
+    - assets/images/LOGO.webp
+    - assets/images/riwayat.png
+    - assets/images/jurnal_home.jpg
+    - assets/images/Meditasi_emang_berpengaruh.webp
+    - assets/images/Lakukan_Meditasi_Sebelum_Belajar.webp
+    - assets/images/Meditasi_Penyembuhan_Penyakit.jpg
+     # File data dokter
+    - assets/data/doctors.json

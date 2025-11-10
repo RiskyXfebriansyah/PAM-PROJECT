@@ -1,0 +1,104 @@
+{
+  "doctors": [
+    {
+      "id": "doc001",
+      "name": "Dr. Sarah Wijaya, Sp.KJ",
+      "specialization": "Psikiater",
+      "imageUrl": "https://ui-avatars.com/api/?name=Sarah+Wijaya&background=6B9080&color=fff&size=200",
+      "rating": 4.9,
+      "experience": 12,
+      "description": "Spesialis kesehatan mental dengan fokus pada penanganan anxiety, depression, dan stress management. Berpengalaman menangani pasien dengan berbagai latar belakang.",
+      "expertise": [
+        "Gangguan Kecemasan",
+        "Depresi",
+        "Manajemen Stress",
+        "Konseling Keluarga"
+      ],
+      "isAvailable": true,
+      "consultationPrice": 250000,
+      "workingHours": "Senin-Jumat: 09:00-17:00, Sabtu: 09:00-13:00",
+      "education": "Sp.KJ - Universitas Indonesia",
+      "totalPatients": 1250
+    },
+    {
+      "id": "doc002",
+      "name": "Dr. Ahmad Hidayat, M.Psi",
+      "specialization": "Psikolog Klinis",
+      "imageUrl": "https://ui-avatars.com/api/?name=Ahmad+Hidayat&background=4A6FA5&color=fff&size=200",
+      "rating": 4.8,
+      "experience": 8,
+      "description": "Psikolog klinis yang berfokus pada terapi kognitif perilaku (CBT) dan mindfulness. Ahli dalam menangani masalah hubungan dan self-esteem.",
+      "expertise": [
+        "Cognitive Behavioral Therapy",
+        "Mindfulness",
+        "Relationship Counseling",
+        "Self-Esteem Issues"
+      ],
+      "isAvailable": true,
+      "consultationPrice": 200000,
+      "workingHours": "Senin-Kamis: 10:00-18:00, Jumat: 13:00-20:00",
+      "education": "M.Psi - Universitas Gadjah Mada",
+      "totalPatients": 890
+    },
+    {
+      "id": "doc003",
+      "name": "Dr. Rina Kusuma, Sp.KJ",
+      "specialization": "Psikiater",
+      "imageUrl": "https://ui-avatars.com/api/?name=Rina+Kusuma&background=E07A5F&color=fff&size=200",
+      "rating": 4.7,
+      "experience": 15,
+      "description": "Berpengalaman dalam penanganan gangguan mood, trauma, dan PTSD. Menggunakan pendekatan holistik dalam perawatan pasien.",
+      "expertise": [
+        "Gangguan Mood",
+        "PTSD",
+        "Trauma Therapy",
+        "Bipolar Disorder"
+      ],
+      "isAvailable": false,
+      "consultationPrice": 300000,
+      "workingHours": "Selasa-Sabtu: 08:00-16:00",
+      "education": "Sp.KJ - Universitas Airlangga",
+      "totalPatients": 1580
+    },
+    {
+      "id": "doc004",
+      "name": "Dr. Budi Santoso, M.Psi",
+      "specialization": "Psikolog Klinis",
+      "imageUrl": "https://ui-avatars.com/api/?name=Budi+Santoso&background=3D5A80&color=fff&size=200",
+      "rating": 4.9,
+      "experience": 10,
+      "description": "Spesialis dalam konseling remaja dan dewasa muda. Fokus pada pengembangan diri, karir, dan adaptasi sosial.",
+      "expertise": [
+        "Konseling Remaja",
+        "Career Counseling",
+        "Social Adaptation",
+        "Personal Development"
+      ],
+      "isAvailable": true,
+      "consultationPrice": 180000,
+      "workingHours": "Senin-Jumat: 13:00-21:00",
+      "education": "M.Psi - Universitas Padjadjaran",
+      "totalPatients": 720
+    },
+    {
+      "id": "doc005",
+      "name": "Dr. Maya Putri, Sp.KJ",
+      "specialization": "Psikiater",
+      "imageUrl": "https://ui-avatars.com/api/?name=Maya+Putri&background=81B29A&color=fff&size=200",
+      "rating": 4.8,
+      "experience": 9,
+      "description": "Ahli dalam penanganan gangguan kecemasan dan panic disorder. Menggunakan kombinasi terapi medis dan psikoterapi.",
+      "expertise": [
+        "Panic Disorder",
+        "Generalized Anxiety",
+        "OCD",
+        "Phobia"
+      ],
+      "isAvailable": true,
+      "consultationPrice": 275000,
+      "workingHours": "Senin-Rabu: 09:00-17:00, Kamis-Jumat: 13:00-20:00",
+      "education": "Sp.KJ - Universitas Indonesia",
+      "totalPatients": 950
+    }
+  ]
+}
