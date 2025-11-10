@@ -1,16 +1,6 @@
-# flutter_application_1
+# Pengembangan Aplikasi Mobile Project
 
-A new Flutter project.
+ini adalah tugas kelompok saya yang dimana pada project kali ini saya dan kelompok
+saya membuat sebuah aplikasi test kesehatan mental (Screening App).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+pada aplikasi ini mempunyai beberapa fitur di antaranya :
